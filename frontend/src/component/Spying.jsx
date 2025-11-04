@@ -3,7 +3,7 @@ import React from 'react'
 const Spying = () => {
   return (
     <section className="relative overflow-hidden bg-linear-to-b from-[#2925CC] to-[#4B48E5] py-16 sm:py-20">
-      <div className="mx-auto max-w-7xl px-4 text-center sm:px-6 lg:px-8">
+      <div className="mx-auto min-w-[1440px] max-h-[] px-4 text-center sm:px-6 lg:px-8">
         <h2 className="text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
           Is someone spying on your phone?
         </h2>
