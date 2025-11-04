@@ -5,16 +5,18 @@ import Footer from './component/Footer'
 import LatestInsights from './component/LatestInsights'
 import Spying from './component/Spying'
 import StoryHelp from './component/StoryHelp'
+import SecurityFocus from './component/SecurityFocus'
 
 const App = () => {
   return (
     <div>
       <Header/>
       <HeroSection/>
-      <StoryHelp/>
+       <SecurityFocus/>
       <Spying/>
       <LatestInsights/>
-      
+     
+      <StoryHelp/>
       <Footer/>
     </div>
   )
