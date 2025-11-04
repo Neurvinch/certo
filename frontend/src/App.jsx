@@ -15,7 +15,6 @@ const App = () => {
        <SecurityFocus/>
       <Spying/>
       <LatestInsights/>
-     
       <StoryHelp/>
       <Footer/>
     </div>
