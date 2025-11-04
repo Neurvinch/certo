@@ -16,7 +16,7 @@ const Header = () => {
         <div>Help</div>
         <div>Company <spam>^</spam></div>
          <div>
-            <button className="color-[#4335DE] font-bold  rounded 
+            <button className="bg-[#4335DE] font-bold  rounded 
             border-2 r">
               Sign In
             </button>
